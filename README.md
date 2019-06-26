@@ -1,4 +1,4 @@
-#Bloqueador Automotivo Baseado em Detecção de Nível Alcóolico por Etilômetro.      
+Bloqueador Automotivo Baseado em Detecção de Nível Alcóolico por Etilômetro.      
                                                                                     
 Código fonte do trabalho de conclusão de curso, da graduação em Tecnologia em     
 Mecatrônica Industrial, pela Faculdade SENAI Pernambuco.                          
